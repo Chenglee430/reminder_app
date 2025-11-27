@@ -120,5 +120,7 @@ reminder_app/
 作者：李承勳 (Li Cheng-Syun)
 
 專案名稱：reminder_app
+
 開發環境：Windows + XAMPP + PHP
+
 最後更新：2025-11
