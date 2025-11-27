@@ -117,3 +117,6 @@ reminder_app/
 | sent_at     | DATETIME |
 
 
+作者：李承勳 (Li Cheng-Syun)
+
+專案名稱：reminder_app
