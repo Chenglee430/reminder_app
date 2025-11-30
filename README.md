@@ -86,7 +86,6 @@ reminder_app/
   ├── SMTP.php
   └── Exception.php
 
-
 🗄️ 資料庫結構 (Database Structure)
 
 | 欄位         | 型態       |
